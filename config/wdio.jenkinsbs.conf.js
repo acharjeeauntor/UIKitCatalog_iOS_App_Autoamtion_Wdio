@@ -23,7 +23,7 @@ config.suites={
     './test/specs/activityindicators.spec.js',
     './test/specs/alertviews.spec.js',
     './test/specs/pickerview.spec.js',
-    './test/specs/search.spec.js',
+    './test/specs/switches.spec.js',
     ]
 }
     config.capabilities = [
