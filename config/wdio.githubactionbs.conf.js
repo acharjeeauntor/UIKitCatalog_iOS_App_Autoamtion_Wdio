@@ -14,7 +14,7 @@ config.specs= [
     './test/specs/textview.spec.js',
     './test/specs/toolbars.spec.js', 
 ],
-config.suite={
+config.suites={
     smokeTest:[
     './test/specs/activityindicators.spec.js',
     './test/specs/alertviews.spec.js',
