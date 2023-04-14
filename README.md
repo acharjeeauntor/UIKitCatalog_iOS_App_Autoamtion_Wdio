@@ -33,6 +33,8 @@ This repo contains my personal ios app automation project, Script written by Wdi
   } <br>
 * IDE: Visual Studio Code <br>
 
+## Project Architecture: <br>
+![wdio_iOS_project_Arch](https://user-images.githubusercontent.com/38497405/232031158-0a5de7d3-e687-4483-aec9-eccdf352d816.png)
 
 ## Prerequisite:
 The following software are required:
